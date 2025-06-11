@@ -1,0 +1,4 @@
+Welcome Indian Railways, Good Morning!
+Your train no. is: 51546
+From: Patna To: Delhi
+Cost of your train ride from: Patna To: Delhi is: 440
